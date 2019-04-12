@@ -46,6 +46,6 @@ a
 ## Descripción jerárquica
 
 ## Diagrama de módulos
-[diagram](./diagram.png)
+![diagram](https://github.com/VictorPuga/satisfechomx/blob/master/assets/diagram.png "hey")
 
 ## Descripción individual
