@@ -1,16 +1,16 @@
 # Documentación: Satisfecho.mx
 
-1. Definiciones y especificación de requerimientos  
-1.1 Definición general  
-1.2 Requerimientos del proyecto  
-1.3 Especificaciones de procedimientos  
-1.3.1 Procedimientos de desarrollo:  
-1.3.2 Procedimientos de instalación y prueba:  
-2. Arquitectura del sistema  
-3. Diseño del modelo de datos  
-3.1 Descripción de procesos y servicios ofrecidos por el sistema  
-3.2 Documentación técnica  
-4. Aspectos relevantes  
+1. [Definiciones y especificación de requerimientos](#1.-Definiciones-y-especificación-de-requerimientos)  
+1.1 [Definición general](#1.1-Definición-general)  
+1.2 [Requerimientos del proyecto](#1.2-Requerimientos-del-proyecto)  
+1.3 [Especificaciones de procedimientos](1.3-Especificaciones-de-procedimientos)  
+1.3.1 [Procedimientos de desarrollo](#1.3.1-Procedimientos-de-desarrollo)  
+1.3.2 [Procedimientos de instalación y prueba](#1.3.2-Procedimientos-de-instalación-y-prueba)  
+2. [Arquitectura del sistema](#2.-Arquitectura-del-sistema)  
+3. [Diseño del modelo de datos](#3.-Diseño-del-modelo-de-datos)  
+3.1 [Descripción de procesos y servicios ofrecidos por el sistema](#3.1-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema)  
+3.2 [Documentación técnica](#3.2-Documentación-técnica)  
+4. [Aspectos relevantes](#4.-Aspectos-relevantes)  
 
 ## 1. Definiciones y especificación de requerimientos  
 ### 1.1 Definición general
@@ -47,8 +47,5 @@ a
 
 ## Diagrama de módulos
 ![diagram](https://github.com/VictorPuga/satisfechomx/blob/master/assets/diagram.png "Diagrama de módulos")
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 
 ## Descripción individual
