@@ -37,7 +37,7 @@ Primero se validó el diseño de la aplicación, para asegurarse de que sí se r
     - a
 
 - Obtención e instalación:  
-a
+Para utilizar la app, busca "Satisfecho.mx" en Messenger. Contesta las preguntas del bot, para llenar la información sobre el donativo. 
 
 - Especifcaciones de prueba y ejecución:  
 a
