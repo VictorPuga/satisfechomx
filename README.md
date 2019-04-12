@@ -3,7 +3,7 @@
 1. [Definiciones y especificación de requerimientos](#1-Definiciones-y-especificación-de-requerimientos)  
 1.1 [Definición general](#11-Definición-general)  
 1.2 [Requerimientos del proyecto](#12-Requerimientos-del-proyecto)  
-1.3 [Especificaciones de procedimientos](13-Especificaciones-de-procedimientos)  
+1.3 [Especificaciones de procedimientos](#13-Especificaciones-de-procedimientos)  
 1.3.1 [Procedimientos de desarrollo](#131-Procedimientos-de-desarrollo)  
 1.3.2 [Procedimientos de instalación y prueba](#132-Procedimientos-de-instalación-y-prueba)  
 2. [Arquitectura del sistema](#2-Arquitectura-del-sistema)  
