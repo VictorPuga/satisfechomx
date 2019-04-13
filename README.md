@@ -23,14 +23,14 @@ Los usuarios que utilizarán la aplicación serán gente que trabaje para un res
 
 ### 1.2 Requerimientos del proyecto
 
-- Requisitos generales:
+- Requisitos generales:  
 
-- Requisitos funcionales: 
+- Requisitos funcionales:  
 
-- Información de autoría: 
+- Información de autoría:  
 No existe ninguna aplicación similar de un chatbot para realizar donaciones, o por lo menos no uno que sea popular. 
 
-- Alcances del sistema: 
+- Alcances del sistema:  
 Las limitaciones del proyecto son que por el momento tiene un solo área 
 
 ### 1.3 Especificaciones de procedimientos
