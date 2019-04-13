@@ -23,7 +23,15 @@ Los usuarios que utilizarán la aplicación serán gente que trabaje para un res
 
 ### 1.2 Requerimientos del proyecto
 
-- 
+- Requisitos generales:
+
+- Requisitos funcionales: 
+
+- Información de autoría: 
+No existe ninguna aplicación similar de un chatbot para realizar donaciones, o por lo menos no uno que sea popular. 
+
+- Alcances del sistema: 
+Las limitaciones del proyecto son que por el momento tiene un solo área 
 
 ### 1.3 Especificaciones de procedimientos
 #### 1.3.1 Procedimientos de desarrollo
@@ -40,12 +48,27 @@ Primero se validó el diseño de la aplicación, para asegurarse de que sí se r
 Para utilizar la app, busca "Satisfecho.mx" en Messenger. Contesta las preguntas del bot, para llenar la información sobre el donativo. Esto notificará a los voluntarios, quienes podrán ver la información en la página de Facebook.
 
 - Especifcaciones de prueba y ejecución:  
-a
+Para poder usar la app, es necesario tener una cuenta de Facebook, y la aplicación de Messenger. También se requiere conección a internet.
 
 # 2. Arquitectura del sistema
 ## Descripción jerárquica
+
+
 
 ## Diagrama de módulos
 ![diagram](https://github.com/VictorPuga/satisfechomx/blob/master/assets/diagram.png "Diagrama de módulos")
 
 ## Descripción individual
+
+### Messenger
+
+### Dialogflow
+
+### AWS
+#### API Gateway
+
+#### Lambda
+
+#### DynamoDB
+
+### Facebook
