@@ -56,13 +56,15 @@ Para poder usar la app, es necesario tener una cuenta de Facebook, y la aplicaci
 
 
 ## Diagrama de módulos
-![diagram](https://github.com/VictorPuga/satisfechomx/blob/master/assets/diagram.png "Diagrama de módulos")
+![Diagrama de módulos](https://github.com/VictorPuga/satisfechomx/blob/master/assets/diagram.png "Diagrama de módulos")
 
 ## Descripción individual
 
 ### Messenger
+Messenger es en donde el usuario interactúa con la app. Toda la interfaz está diseñada para ser un chat, lo que simplifica la interacción con los usuarios. La función de esta integración con Messenger es usar una plataforma ya establecida para la distribución de la aplicación. A su vez, los mensajes que recibe el chat son mandados a un chatbot desarrollado con Dialogflow, para procesar el texto y que la verdadera magia funcione. 
 
 ### Dialogflow
+
 
 ### AWS
 #### API Gateway
