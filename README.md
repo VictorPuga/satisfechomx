@@ -64,7 +64,7 @@ Para poder usar la app, es necesario tener una cuenta de Facebook, y la aplicaci
 Messenger es en donde el usuario interactúa con la app. Toda la interfaz está diseñada para ser un chat, lo que simplifica la interacción con los usuarios. La función de esta integración con Messenger es usar una plataforma ya establecida para la distribución de la aplicación. A su vez, los mensajes que recibe el chat son mandados a un chatbot desarrollado con Dialogflow, para procesar el texto y que la verdadera magia funcione. 
 
 ### Dialogflow
-
+El bot de Dialogflow es el encargado de recibir los mensajes, procesarlos, y saber qué hacer con esa información. El bot está entrenado con las frases necesarias para llevar a cabo la donación, y guiar al usuario por la conversación. [...]
 
 ### AWS
 #### API Gateway
