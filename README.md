@@ -34,8 +34,6 @@ Los usuarios que utilizarán la aplicación serán gente que trabaje para un res
     - Editor de texto
 
 - Requisitos funcionales:  
-    - Cuenta de desarrollador de Facebook
-    - Cuenta de AWS
     - Conexión a intenet
 
 - Información de autoría:  
@@ -86,4 +84,4 @@ Es aquí donde está el código que se ejecuta en la nube. La API utiliza las fu
 DynamoDB es un servicio de base de datos NoSQL, en donde se van almacenando la información de las donaciones. La API llama una función cuando se terminó de recabar la información acerca del donativo, para escribir en la base de datos la descripción obtenida.
 
 ### Facebook
-En la página de Facebook de Satisfecho.mx se va publicando la información de los donativos, así como contenido, caducidad, ubicación, etc., para que los voluntarios lo vean y acudan por él. Además, funciona para dar difusión y viralidad acerca del proyecto. 
+En la [página de Facebook](https://fb.com/Satisfechomx-289652755034519/) de Satisfecho.mx se va publicando la información de los donativos, así como contenido, caducidad, ubicación, etc., para que los voluntarios lo vean y acudan por él. Además, funciona para dar difusión y viralidad acerca del proyecto. 
