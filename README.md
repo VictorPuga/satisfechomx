@@ -30,15 +30,19 @@ Los usuarios que utilizarán la aplicación serán gente que trabaje para un res
     - Conocimiento de la integración con Dialogflow
     - Conocimiento de la integración con AWS
     - Conocimiento de HTML
-    - Conecciones con posibles donadores y asociaciones civiles
+    - Conexiones con posibles donadores y asociaciones civiles
+    - Editor de texto
 
 - Requisitos funcionales:  
+    - Cuenta de desarrollador de Facebook
+    - Cuenta de AWS
+    - Conexión a intenet
 
 - Información de autoría:  
 No existe ninguna aplicación similar de un chatbot para realizar donaciones, o por lo menos no uno que sea popular. 
 
 - Alcances del sistema:  
-Las limitaciones del proyecto son que por el momento tiene un solo área 
+Las limitaciones del proyecto son que por el momento solo cubre un área, la ciudad de Chihuahua. No se pueden realizar donaciones desde o hacia otro lado.
 
 ### 1.3 Especificaciones de procedimientos
 #### 1.3.1 Procedimientos de desarrollo
@@ -49,13 +53,13 @@ Primero se validó el diseño de la aplicación, para asegurarse de que sí se r
 
 #### 1.3.2 Procedimientos de instalación y prueba
 - Requerimientos no funcionales:  
-    - a
+    - [...]
 
 - Obtención e instalación:  
 Para utilizar la app, busca "Satisfecho.mx" en Messenger. Contesta las preguntas del bot, para llenar la información sobre el donativo. Esto notificará a los voluntarios, quienes podrán ver la información en la página de Facebook.
 
 - Especifcaciones de prueba y ejecución:  
-Para poder usar la app, es necesario tener una cuenta de Facebook, y la aplicación de Messenger. También se requiere conección a internet.
+Para poder usar la app, es necesario tener una cuenta de Facebook, y la aplicación de Messenger. También se requiere conexión a internet.
 
 # 2. Arquitectura del sistema
 <!-- ## Descripción jerárquica -->
@@ -82,4 +86,4 @@ Es aquí donde está el código que se ejecuta en la nube. La API utiliza las fu
 DynamoDB es un servicio de base de datos NoSQL, en donde se van almacenando la información de las donaciones. La API llama una función cuando se terminó de recabar la información acerca del donativo, para escribir en la base de datos la descripción obtenida.
 
 ### Facebook
-En la página de Facebook de Satisfecho.mx se va publicando la información de los donativos, así como contenido, caducidad, y ubicación, para que los voluntarios lo vean y acudan por él. Además, funciona para dar difusión y viralidad acerca del proyecto. 
+En la página de Facebook de Satisfecho.mx se va publicando la información de los donativos, así como contenido, caducidad, ubicación, etc., para que los voluntarios lo vean y acudan por él. Además, funciona para dar difusión y viralidad acerca del proyecto. 
