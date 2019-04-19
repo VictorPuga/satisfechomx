@@ -105,6 +105,7 @@ Dicho esto, el chatbot funciona de una manera automática, con respuestas inmedi
 ### Precio
 |                                                                       |                                               |
 |-----------------------------------------------------------------------|-----------------------------------------------|
+|                                                                       |                                               |
 | **¿Cuál es el precio del producto?**                                  | Gratuito                                      |
 | **¿Cómo se ha determinado el precio?**                                | Es de ayuda comunitaria y sin fines de lucro. |
 | **¿Es un precio de introducción al mercado o es un precio definido?** | Definido                                      |
@@ -158,13 +159,13 @@ No hay.
 |                                    |                |                     |                 |
 | **Capital de trabajo**             |                |                     |                 |
 |  N/A                               |                | 0                   | $0.00           |
-| `Total Capital de Trabajo`         |                |                     | **$0.00**       |
+| `Total capital de Trabajo`         |                |                     | **$0.00**       |
 |                                    |                |                     |                 |
 | **Costos directos**                |                |                     |                 |
 | Materiales (software)              |                | 0                   | $0.00           |
 | Mano de obra                       |                | 0                   | $0.00           |
 | Gastos de fabricación              | $1080.00       | 1                   | $1080.00        |
-| `Total de gastos directos`         |                |                     | **$1080.00**    |
+| `Total gastos directos`            |                |                     | **$1080.00**    |
 |                                    |                |                     |                 |
 | **Costos indirectos**              |                |                     |                 |
 | Gastos administrativos             |                | 0                   | $0.00           |
