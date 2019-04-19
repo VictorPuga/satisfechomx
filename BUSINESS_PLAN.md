@@ -1,4 +1,8 @@
 # Diseño y Desarrollo de Aplicaciones
+<div heigth="500px">
+
+</div>
+
 ![logo](https://github.com/VictorPuga/satisfechomx/blob/master/assets/logo.png "logo")  
 ## Grupo 1  
 ### Integrantes
