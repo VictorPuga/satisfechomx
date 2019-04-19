@@ -4,7 +4,7 @@
     <img src="https://github.com/VictorPuga/satisfechomx/blob/master/assets/logo.png" alt="logo" />
 </p>
 
-## Grupo 1  
+### Grupo 1  
 ### Integrantes
 ```javascript
 const members = [
@@ -19,15 +19,13 @@ members.forEach((member) => {
 });
 ```
 
-# Índice
 - [Misión](#Misión)
 - [Visión](#Visión)
 - [¿Quiénes somos?](#Quiénes-somos)
   - [Producto](#Producto)
   -	[Valor](#Valor)
   -	[Objetivo](#Objetivo)
-- [¿Qué es Satisfecho.mx?](#Qué-es-Satisfecho.mx)
-- [Manual de usuario](#Manual-de-usuario)
+- [¿Qué es Satisfecho.mx?](#Qué-es-Satisfechomx)
 - [Análisis del mercado](#Análisis-del-mercado)
   -	[Entorno empresarial](#Entorno-empresarial)
   -	[Mercado potencial](#Mercado-potencial)
@@ -70,9 +68,6 @@ Disminuir el desperdicio de comida en buen estado al mismo tiempo que se disminu
 ## ¿Qué es Satisfecho.mx?
 Satisfecho.mx es una organización sin fines de lucro que se dedica a darle un mejor fin a la comida "desperdiciada" para alimentar a personas que lo necesiten por medio de una aplicación que utiliza un chatbot de Messenger para recibir y documentar donaciones que se presenten.
 
-## Manual de usuario 
-(incluir cada una de las pantallas con su respectiva explicación)
-
 ## Análisis del mercado 
 ### Entorno empresarial 
 Las instituciones y empresas que pueden apoyar a esta organización son todas las tiendas de conveniencia, supermercados, etc., y asociaciones civiles y/o gubernamentales que se dediquen al reparto de víveres entre las zonas necesitadas.
@@ -105,7 +100,6 @@ Dicho esto, el chatbot funciona de una manera automática, con respuestas inmedi
 ### Precio
 |                                                                       |                                               |
 |-----------------------------------------------------------------------|-----------------------------------------------|
-|                                                                       |                                               |
 | **¿Cuál es el precio del producto?**                                  | Gratuito                                      |
 | **¿Cómo se ha determinado el precio?**                                | Es de ayuda comunitaria y sin fines de lucro. |
 | **¿Es un precio de introducción al mercado o es un precio definido?** | Definido                                      |
@@ -142,7 +136,7 @@ No hay.
 | Reparto de víveres (CÁRITAS) | 10  |
 
 ### Responsabilidades
-| Puesto de trabajo           | Tarea del puesto                                              |
+| Puesto de trabajo           | Tarea                                                         |
 |-----------------------------|---------------------------------------------------------------|
 | Soporte técnico             | Dar seguimiento a la aplicación y resolver posibles dudas     |
 | Recolección (CÁRITAS)       | Recoger las donaciones en las tiendas designadas              |
