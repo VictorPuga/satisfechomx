@@ -152,26 +152,26 @@ No hay.
 
 ## Plan de inversión
 | Rubro                              | Valor unitario | Unidades requeridas | Inversión total |
-|------------------------------------|----------------|---------------------|-----------------|
-| **Activo fijo**                                                                          |
-| Compra / Renta del local comercial |                | 0                   |                 |
-| Dispositivos electrónicos          |                | 0                   |                 |
-| Muebles y enseres                  |                | 0                   |                 |
-| **Total Activos fijos**            |                |                     | 0               |
+|------------------------------------|---------------:|--------------------:|----------------:|
+| `Activo fijo`                      |                |                     |                 |
+| Compra / Renta del local comercial |                | 0                   | $0.00           |
+| Dispositivos electrónicos          |                | 0                   | $0.00           |
+| Muebles y enseres                  |                | 0                   | $0.00           |
+| **Total Activos fijos**            |                |                     | $0.00           |
 |                                    |                |                     |                 |
-| **Capital de trabajo**             |                |                     |                 |
-|           a                        |                |                     |                 |
-| **Total Capital de Trabajo**       |                |                     |                 |
+| `Capital de trabajo`               |                |                     |                 |
+|  N/A                               |                | 0                   | $0.00           |
+| **Total Capital de Trabajo**       |                |                     | 0               |
 |                                    |                |                     |                 |
-| **Costos directos**                |                |                     |                 |
-| Materiales (software)              | $1080.00       | 1                   |                 |
-| Mano de obra                       |                |                     |                 |
-| Gastos de fabricación              |                |                     |                 |
+| `Costos directos`                  |                |                     |                 |
+| Materiales (software)              | $1080.00       | 1                   | $1080.00        |
+| Mano de obra                       |                | 0                   | $0.00           |
+| Gastos de fabricación              |                | 0                   | $0.00           |
 | **Total de gastos directos**       |                |                     |                 |
 |                                    |                |                     |                 |
-| **Costos indirectos**              |                |                     |                 |
-| Gastos administrativos             |                |                     |                 |
-| Gastos de ventas                   |                |                     |                 |
-| **Total gastos indirectos**        |                |                     |                 |
-| **Total**                          |                |                     |                 |
-|                                    |                |                     |                 |
+| `Costos indirectos`                |                |                     |                 |
+| Gastos administrativos             |                | 0                   | $0.00           |
+| Gastos de ventas                   |                | 0                   | $0.00           |
+| **Total gastos indirectos**        |                |                     | $0.00           |
+|                                    |                |                     |                 |<≤>
+| **Total**                          |                |                     | $1080.00        |
