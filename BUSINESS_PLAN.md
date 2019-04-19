@@ -153,25 +153,25 @@ No hay.
 ## Plan de inversión
 | Rubro                              | Valor unitario | Unidades requeridas | Inversión total |
 |------------------------------------|---------------:|--------------------:|----------------:|
-| `Activo fijo`                      |                |                     |                 |
+| **Activo fijo**                    |                |                     |                 |
 | Compra / Renta del local comercial |                | 0                   | $0.00           |
 | Dispositivos electrónicos          |                | 0                   | $0.00           |
 | Muebles y enseres                  |                | 0                   | $0.00           |
-| **Total Activos fijos**            |                |                     | $0.00           |
+| `Total Activos fijos`              |                |                     | $0.00           |
 |                                    |                |                     |                 |
-| `Capital de trabajo`               |                |                     |                 |
+| **Capital de trabajo**             |                |                     |                 |
 |  N/A                               |                | 0                   | $0.00           |
-| **Total Capital de Trabajo**       |                |                     | 0               |
+| `Total Capital de Trabajo`         |                |                     | 0               |
 |                                    |                |                     |                 |
-| `Costos directos`                  |                |                     |                 |
+| **Costos directos**                |                |                     |                 |
 | Materiales (software)              | $1080.00       | 1                   | $1080.00        |
 | Mano de obra                       |                | 0                   | $0.00           |
 | Gastos de fabricación              |                | 0                   | $0.00           |
-| **Total de gastos directos**       |                |                     |                 |
+| `Total de gastos directos`         |                |                     |                 |
 |                                    |                |                     |                 |
-| `Costos indirectos`                |                |                     |                 |
+| **Costos indirectos**              |                |                     |                 |
 | Gastos administrativos             |                | 0                   | $0.00           |
 | Gastos de ventas                   |                | 0                   | $0.00           |
-| **Total gastos indirectos**        |                |                     | $0.00           |
-|                                    |                |                     |                 |<≤>
+| `Total gastos indirectos`          |                |                     | $0.00           |
+|                                    |                |                     |                 |
 | **Total**                          |                |                     | $1080.00        |
