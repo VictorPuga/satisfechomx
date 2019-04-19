@@ -7,34 +7,35 @@
 - Sebastian Santos A01566846
 
 # Índice
-- [Misión](/#)
-- [Visión](/#)
-- [¿Quiénes somos?](/#)
-  - [Producto](/#)
-  -	[Valor](/#)
-  -	[Objetivo](/#)
-- [¿Qué es Satisfecho.mx?](/#)
-- [Manual de Usuario](/#)
-- Análisis del mercado 
-  -	[Análisis del entorno empresarial](/#)
-  -	[Análisis del mercado potencial](/#)
-  -	[Segmento del mercado](/#)
-  -	[Ventaja competitiva](/#)
-  -	[Análisis de la competencia](/#)
-- Estrategias de Mercado
-  -	[Estrategia de producto o servicio](/#)
-  -	[Estrategias de precio](/#)
-  -	[Estrategia de distribución (plaza)](/#)
-  -	[Estrategia de promoción](/#)
+- [Misión](/#Misión)
+- [Visión](/#Visión)
+- [¿Quiénes somos?](/#¿Quiénes-somos?)
+  - [Producto](/#Producto)
+  -	[Valor](/#Valor)
+  -	[Objetivo](/#Objetivo)
+- [¿Qué es Satisfecho.mx?](/#¿Qué-es-Satisfecho.mx?)
+- [Manual de usuario](/#Manual-de-usuario)
+- Análisis del mercado
+  -	[Entorno empresarial](/#Entorno-empresarial)
+  -	[Mercado potencial](/#Mercado-potencial)
+  -	[Segmento del mercado](/#Segmento-del-mercado)
+  -	[Ventaja competitiva](/#Ventaja-competitiva)
+  -	[Análisis de la competencia](/#Análisis-de-la-competencia)
+- Estrategias de mercado
+  -	[Producto o servicio](/#Producto-o-servicio)
+  -	[Precio](/#Precio)
+  -	[Distribución](/#Distribución)
+  -	[Promoción](/#Promoción)
 - Estudio técnico de la producción
-  -	[Describir las características de la localización del negocio](/#)
-  -	[Realizar un bosquejo de lo que será la distribución del local (área de trabajo)](/#)
-  - [Hacer un listado de las maquinas, equipos y herramientas que se necesitan para elaborar el producto o brindar el servicio que se ha definido](/#)
-  -	[Organización de las personas en el proceso productivo](/#)
-  -	[Enumerar las tareas según las responsabilidades de cada uno](/#)
-- [Plan de inversión](/#)
+  -	[Localización del negocio](/#Localización-del-negocio)
+  -	[Bosquejo del área de trabajo](/#Bosquejo-del-área-de-trabajo)
+  - [Herramientas necesarias para elaborar el producto](/#Herramientas-necesarias-para-elaborar-el-producto)
+  -	[Personas en el proceso productivo](/#Personas-en-el-proceso-productivo)
+  -	[Responsabilidades](/#Responsabilidades)
+- [Plan de inversión](/#Plan-de-inversión)
 
 ---
+
 ## Misión
 Nuestra misión es reducir el desperdicio de comida que se hace día a día y usarla como alimento para personas que lo necesita mientras se disminuye el consumo de comida chatarra y esta es sustituida por comida saludable y balanceada.
 
@@ -54,17 +55,16 @@ Facilitar todo el proceso de donación de alimentos por medio de un chatbot de F
 Disminuir el desperdicio de comida en buen estado al mismo tiempo que se disminuye el hambre y la desnutrición entre las personas.
 
 ## ¿Qué es Satisfecho.mx?
-
 Satisfecho.mx es una organización sin fines de lucro que se dedica a darle un mejor fin a la comida "desperdiciada" para alimentar a personas que lo necesiten por medio de una aplicación que utiliza un chatbot de Messenger para recibir y documentar donaciones que se presenten.
 
-## Manual de Usuario 
+## Manual de usuario 
 (incluir cada una de las pantallas con su respectiva explicación)
 
 ## Análisis del mercado 
-### Análisis del entorno empresarial 
+### Entorno empresarial 
 Las instituciones y empresas que pueden apoyar a esta organización son todas las tiendas de conveniencia, supermercados, etc., y asociaciones civiles y/o gubernamentales que se dediquen al reparto de víveres entre las zonas necesitadas.
 
-### Análisis del mercado potencial
+### Mercado potencial
 | Concepto                                                                                     | No. |
 |----------------------------------------------------------------------------------------------|-----|
 | Número de personas en la zona donde piensan vender su producto o servicio                    | N/A |
@@ -82,12 +82,13 @@ Se basa en un chatbot de Messenger por lo que es mucho más rápido, eficiente y
 |Empresas competidoras|Nivel de aceptación|Tipo de cliente que atiende|¿Por qué razón la eligen?|¿Dónde se comercializa el producto?|¿A qué precio lo venden?|
 |:-------------------:|:-----------------:|:-------------------------:|:-----------------------:|:---------------------------------:|:----------------------:|
 | N/A                 | N/A               | N/A                       | N/A                     | N/A                               | N/A                    |
-## Estrategias de Mercado
-### Estrategia de producto o servicio
+
+## Estrategias de mercado
+### Producto o servicio
 Al ser una organización sin fines de lucro, nuestra aplicación no tiene ningún costo monetario, el único dinero que se estará recibiendo será únicamente en forma de donaciones, mismo que será redirigido a organizaciones como el Bando de Alimentos (CÁRITAS), entre otras.
 Dicho esto, el chatbot funciona de una manera automática, con respuestas inmediatas y personalizadas. Este detecta los datos ingresados por las personas encargadas de las donaciones de comida y los recolecta para luego crear un aviso en forma de publcación en la página de Facebook, misma que los encargados de las distintas organizaciones podrán ver e interactuar con ella para encargarse de recoger los alimentos que están siendo donados.
 
-### Estrategia de precio
+### Precio
 |                                                                   |                                               |
 |-------------------------------------------------------------------|-----------------------------------------------|
 | ¿Cuál es el precio del producto?                                  | Gratuito                                      |
@@ -95,9 +96,10 @@ Dicho esto, el chatbot funciona de una manera automática, con respuestas inmedi
 | ¿Es un precio de introducción al mercado o es un precio definido? | Definido                                      |
 | Otra información importante para la fijación de precios           | N/A                                           |
 
-### Estrategia de distribución (plaza)
+### Distribución
 El chatbot estará disponible a través de la aplicación de Messenger. Sólo hay que buscarlo en la pantalla de chats.
-### Estrategia de promoción
+
+### Promoción
 |                                                                       |                                       |
 |-----------------------------------------------------------------------|---------------------------------------|
 | ¿Qué se hará para promocionar el producto o servicio?                 | Publicidad en Facebook y demás redes. |
@@ -105,26 +107,26 @@ El chatbot estará disponible a través de la aplicación de Messenger. Sólo ha
 | Otros mecanismos a emplear para la promoción del producto o servicio. | Carteles, periódico, etc.             |
 
 ## Estudio técnico de la producción
-### Describir las características de la localización del negocio
-No hay un establecimiento físico por parte de nosotros como aplicación; sólo por parte de los supermercados, cuarteles de las asociaciones, etc.
+### Localización del negocio
+No hay un establecimiento físico por parte de nosotros como aplicación; sólo por parte de los supermercados, cuarteles de las asociaciones, etc. Estaríamos localizados en la ciudad de Chihuahua
 
-### Realizar un bosquejo de lo que será la distribución del local (área del trabajo)
+### Bosquejo del área de trabajo
 No hay.
 
-### Hacer un listado de las maquinas, equipos y herramientas que se necesitan para elaborar el producto o brindar el servicio que se ha definido
-| Dispositivos electrónicos | Software | Mobiliario |
-|---------------------------|----------|------------|
-| Laptop                    |          |            |
-| Celular                   |          |            |
+### Herramientas necesarias para elaborar el producto
+| Dispositivos electrónicos | Software        | Mobiliario |
+|---------------------------|-----------------|------------|
+| Laptop                    | Editor de texto |            |
+| Celular                   |                 |            |
 
-### Organización de las personas en el proceso productivo 
+### Personas en el proceso productivo 
 | Puesto de trabajo            | No. |
 |------------------------------|-----|
 | Soporte técnico              | 3   |
 | Recolección (CÁRITAS)        | 6   |
 | Reparto de víveres (CÁRITAS) | 10  |
 
-### Enumerar las tareas según las responsabilidades de cada uno
+### Responsabilidades
 | Puesto de trabajo           | Tarea del puesto                                              |
 |-----------------------------|---------------------------------------------------------------|
 | Soporte técnico             | Dar seguimiento a la aplicación y resolver posibles dudas     |
@@ -132,7 +134,6 @@ No hay.
 | Reparto de víveres (CÁRITAS)| Distribuir los víveres donados entre las familias necesitadas |
 
 ## Plan de inversión
-
 | Rubro                              | Valor unitario | Unidades requeridas | Inversión total |
 |------------------------------------|----------------|---------------------|-----------------|
 | **Activo fijo**                    |                |                     |                 |
@@ -144,17 +145,16 @@ No hay.
 | **Capital de trabajo**             |                |                     |                 |
 |           a                        |                |                     |                 |
 | **Total Capital de Trabajo**       |                |                     |                 |
-
-| Rubro                        | Valor unitario | Unidades requeridas | Costo total |
-|------------------------------|----------------|---------------------|-------------|
-| **Costos directos**          |                |                     |             |
-| Materiales (software)        |                |                     |             |
-| Mano de obra                 |                |                     |             |
-| Gastos de fabricación        |                |                     |             |
-| **Total de gastos directos** |                |                     |             |
-|                              |                |                     |             |
-| **Costos indirectos**        |                |                     |             |
-| Gastos administrativos       |                |                     |             |
-| Gastos de ventas             |                |                     |             |
-| **Total gastos indirectos**  |                |                     |             |
-| **Total**                    |                |                     |             |
+|                                    |                |                     |                 |
+| **Costos directos**                |                |                     |                 |
+| Materiales (software)              |                |                     |                 |
+| Mano de obra                       |                |                     |                 |
+| Gastos de fabricación              |                |                     |                 |
+| **Total de gastos directos**       |                |                     |                 |
+|                                    |                |                     |                 |
+| **Costos indirectos**              |                |                     |                 |
+| Gastos administrativos             |                |                     |                 |
+| Gastos de ventas                   |                |                     |                 |
+| **Total gastos indirectos**        |                |                     |                 |
+| **Total**                          |                |                     |                 |
+|                                    |                |                     |                 |
