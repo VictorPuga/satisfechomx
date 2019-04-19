@@ -2,12 +2,21 @@
 ![logo](https://github.com/VictorPuga/satisfechomx/blob/master/assets/logo.png "logo")  
 ## Grupo 1  
 ### Integrantes
-- Víctor Puga A01568636
-- Felipe Acosta A01568769
-- Sebastian Santos A01566846
+```javascript
+const members = [
+    { name: 'Víctor Puga', id: 'A01568636' },
+    { name: 'Felipe Acosta', id: 'A01568769' },
+    { name: 'Sebastian Santos', id: 'A01566846' },
+];
+
+members.forEach((member) => {
+    const { name, id } = member;
+    console.log(`Hello! My name is ${name} and my student id is ${id}.`)
+});
+```
 
 # Índice
-- [Misión](/#Misión)
+- [Misión](/#misión)
 - [Visión](/#Visión)
 - [¿Quiénes somos?](/#¿Quiénes-somos?)
   - [Producto](/#Producto)
@@ -85,30 +94,30 @@ Se basa en un chatbot de Messenger por lo que es mucho más rápido, eficiente y
 
 ## Estrategias de mercado
 ### Producto o servicio
-Al ser una organización sin fines de lucro, nuestra aplicación no tiene ningún costo monetario, el único dinero que se estará recibiendo será únicamente en forma de donaciones, mismo que será redirigido a organizaciones como el Bando de Alimentos (CÁRITAS), entre otras.
+Al ser una organización sin fines de lucro, nuestra aplicación no tiene ningún costo monetario, el único dinero que se estará recibiendo será únicamente en forma de donaciones, mismo que será redirigido a organizaciones como el Banco de Alimentos (CÁRITAS), entre otras.
 Dicho esto, el chatbot funciona de una manera automática, con respuestas inmediatas y personalizadas. Este detecta los datos ingresados por las personas encargadas de las donaciones de comida y los recolecta para luego crear un aviso en forma de publcación en la página de Facebook, misma que los encargados de las distintas organizaciones podrán ver e interactuar con ella para encargarse de recoger los alimentos que están siendo donados.
 
 ### Precio
-|                                                                   |                                               |
-|-------------------------------------------------------------------|-----------------------------------------------|
-| ¿Cuál es el precio del producto?                                  | Gratuito                                      |
-| ¿Cómo se ha determinado el precio?                                | Es de ayuda comunitaria y sin fines de lucro. |
-| ¿Es un precio de introducción al mercado o es un precio definido? | Definido                                      |
-| Otra información importante para la fijación de precios           | N/A                                           |
+|                                                                       |                                               |
+|-----------------------------------------------------------------------|-----------------------------------------------|
+| **¿Cuál es el precio del producto?**                                  | Gratuito                                      |
+| **¿Cómo se ha determinado el precio?**                                | Es de ayuda comunitaria y sin fines de lucro. |
+| **¿Es un precio de introducción al mercado o es un precio definido?** | Definido                                      |
+| **Otra información importante para la fijación de precios**           | N/A                                           |
 
 ### Distribución
 El chatbot estará disponible a través de la aplicación de Messenger. Sólo hay que buscarlo en la pantalla de chats.
 
 ### Promoción
-|                                                                       |                                       |
-|-----------------------------------------------------------------------|---------------------------------------|
-| ¿Qué se hará para promocionar el producto o servicio?                 | Publicidad en Facebook y demás redes. |
-| ¿Cuánto dinero se puede invertir en estas actividades?                | Un 25% de las donaciones monetarias.  |
-| Otros mecanismos a emplear para la promoción del producto o servicio. | Carteles, periódico, etc.             |
+|                                                                           |                                       |
+|---------------------------------------------------------------------------|---------------------------------------|
+| **¿Qué se hará para promocionar el producto o servicio?**                 | Publicidad en Facebook y demás redes. |
+| **¿Cuánto dinero se puede invertir en estas actividades?**                | Un 25% de las donaciones monetarias.  |
+| **Otros mecanismos a emplear para la promoción del producto o servicio**  | Carteles, periódico, etc.             |
 
 ## Estudio técnico de la producción
 ### Localización del negocio
-No hay un establecimiento físico por parte de nosotros como aplicación; sólo por parte de los supermercados, cuarteles de las asociaciones, etc. Estaríamos localizados en la ciudad de Chihuahua
+No hay un establecimiento físico por parte de nosotros como aplicación; sólo por parte de los supermercados, cuarteles de las asociaciones, etc. Estaríamos localizados en la ciudad de Chihuahua.
 
 ### Bosquejo del área de trabajo
 No hay.
