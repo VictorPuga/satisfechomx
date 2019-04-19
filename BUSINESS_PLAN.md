@@ -19,6 +19,8 @@ members.forEach((member) => {
 });
 ```
 
+---
+
 - [Misión](#Misión)
 - [Visión](#Visión)
 - [¿Quiénes somos?](#Quiénes-somos)
