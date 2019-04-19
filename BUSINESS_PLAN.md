@@ -1,8 +1,11 @@
 # Diseño y Desarrollo de Aplicaciones
 
-<p style="background-color: red; display: flex; justify-content: center">
+<p align="center">
     <img src="https://github.com/VictorPuga/satisfechomx/blob/master/assets/logo.png" alt="logo" />
 </p>
+<center>
+    <img src="https://github.com/VictorPuga/satisfechomx/blob/master/assets/logo.png" alt="logo" />
+</center>
 
 ## Grupo 1  
 ### Integrantes
