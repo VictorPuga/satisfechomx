@@ -81,7 +81,8 @@ Las instituciones y empresas que pueden apoyar a esta organización son todas la
 | Establecer la compra por periodo                                                             | N/A |
 | Establecer la cantidad de producto o servicio a ofrecer                                      | N/A |
 
-### Segmento del mercado: público objetivo
+### Segmento del mercado
+
 Personas en situación de posible desnutrición y en situación necesitada.
 
 ### Ventaja competitiva
