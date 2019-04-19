@@ -157,21 +157,21 @@ No hay.
 | Compra / Renta del local comercial |                | 0                   | $0.00           |
 | Dispositivos electrónicos          |                | 0                   | $0.00           |
 | Muebles y enseres                  |                | 0                   | $0.00           |
-| `Total Activos fijos`              |                |                     | $0.00           |
+| `Total Activos fijos`              |                |                     | `$0.00`         |
 |                                    |                |                     |                 |
 | **Capital de trabajo**             |                |                     |                 |
 |  N/A                               |                | 0                   | $0.00           |
-| `Total Capital de Trabajo`         |                |                     | 0               |
+| `Total Capital de Trabajo`         |                |                     | `$0.00`         |
 |                                    |                |                     |                 |
 | **Costos directos**                |                |                     |                 |
-| Materiales (software)              | $1080.00       | 1                   | $1080.00        |
+| Materiales (software)              |                | 0                   | $0.00           |
 | Mano de obra                       |                | 0                   | $0.00           |
-| Gastos de fabricación              |                | 0                   | $0.00           |
-| `Total de gastos directos`         |                |                     |                 |
+| Gastos de fabricación              | $1080.00       | 1                   | $1080.00        |
+| `Total de gastos directos`         |                |                     | `$1080.00`      |
 |                                    |                |                     |                 |
 | **Costos indirectos**              |                |                     |                 |
 | Gastos administrativos             |                | 0                   | $0.00           |
 | Gastos de ventas                   |                | 0                   | $0.00           |
-| `Total gastos indirectos`          |                |                     | $0.00           |
+| `Total gastos indirectos`          |                |                     | `$0.00`         |
 |                                    |                |                     |                 |
-| **Total**                          |                |                     | $1080.00        |
+| **Total**                          |                |                     | **$1080.00**    |
