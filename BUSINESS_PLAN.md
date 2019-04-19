@@ -1,7 +1,9 @@
 # Diseño y Desarrollo de Aplicaciones
-<div height="500px">
-<img src="https://github.com/VictorPuga/satisfechomx/blob/master/assets/logo.png" alt="logo" />
+
+<div style="background-color: red; display: flex; justify-content: center">
+    <img src="https://github.com/VictorPuga/satisfechomx/blob/master/assets/logo.png" alt="logo" />
 </div>
+
 ## Grupo 1  
 ### Integrantes
 ```javascript
