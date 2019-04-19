@@ -153,18 +153,18 @@ No hay.
 ## Plan de inversión
 | Rubro                              | Valor unitario | Unidades requeridas | Inversión total |
 |------------------------------------|----------------|---------------------|-----------------|
-| **Activo fijo**                    |                |                     |                 |
-| Compra / Renta del local comercial |                |                     |                 |
-| Dispositivos electrónicos          |                |                     |                 |
-| Muebles y enseres                  |                |                     |                 |
-| **Total Activos fijos**            |                |                     |                 |
+| **Activo fijo**                                                                          |
+| Compra / Renta del local comercial |                | 0                   |                 |
+| Dispositivos electrónicos          |                | 0                   |                 |
+| Muebles y enseres                  |                | 0                   |                 |
+| **Total Activos fijos**            |                |                     | 0               |
 |                                    |                |                     |                 |
 | **Capital de trabajo**             |                |                     |                 |
 |           a                        |                |                     |                 |
 | **Total Capital de Trabajo**       |                |                     |                 |
 |                                    |                |                     |                 |
 | **Costos directos**                |                |                     |                 |
-| Materiales (software)              |                |                     |                 |
+| Materiales (software)              | $1080.00       | 1                   |                 |
 | Mano de obra                       |                |                     |                 |
 | Gastos de fabricación              |                |                     |                 |
 | **Total de gastos directos**       |                |                     |                 |
