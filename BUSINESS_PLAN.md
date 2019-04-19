@@ -171,4 +171,4 @@ No hay.
 | Gastos de ventas                   |                | 0                   | $0.00           |
 | `Total gastos indirectos`          |                |                     | **$0.00**       |
 |                                    |                |                     |                 |
-| **Total**                          |                |                     | **$1080.00**    |
+| **Total**                          |                |                     | $1080.00        |
