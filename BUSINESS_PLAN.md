@@ -5,7 +5,7 @@
 </p>
 
 ### Grupo 1  
-### Integrantes
+### Integrantes 🤓 🤓 🤓
 ```javascript
 const members = [
     { name: 'Víctor Puga', id: 'A01568636' },
