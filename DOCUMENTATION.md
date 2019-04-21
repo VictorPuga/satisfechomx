@@ -166,7 +166,9 @@ GET /donations/{phone_number}/{post_id}
 ---
 
 #### Editar una donación
-a `PUT /donations/{phone_number}/{post_id}` z
+```
+PUT /donations/{phone_number}/{post_id}
+```
 | Parámetro                | Tipo     | Descripción                                                                 | Ejemplo                                |
 |--------------------------|----------|-----------------------------------------------------------------------------|---------------------------------------:|
 | donation_content         | `String` | Contenido de la donación                                                    | `'Manzanas'`                           |
