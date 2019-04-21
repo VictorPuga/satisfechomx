@@ -213,6 +213,6 @@ A esto se suman los retos técnicos del proyecto como ser el primer proyecto en 
 
 No obstante ha sido muy enriquecedor.
 
-<p align="center">
-    <p>Made with ❤️ by Phill 😉, Vic 🤓, and Sebas 😎.</p>
-</p>
+<br/>
+<br/>
+<p align="center">Made with ❤️ by Phill 😉, Vic 🤓, and Sebas 😎.</p>
