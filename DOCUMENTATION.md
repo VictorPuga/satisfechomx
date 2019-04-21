@@ -182,7 +182,7 @@ PUT /donations/{phone_number}/{post_id}
 
 ###### * Los parámetros se pasan como cuerpo de la solicitud de HTTP
 
-#### Enlaces externos:
+### Enlaces externos:
 [Documentación de Dialogflow](https://dialogflow.com/docs/)  
 [Documentación de Messenger](https://developers.facebook.com/docs/messenger-platform/)  
 [Documentación de Facebook](https://developers.facebook.com/docs/graph-api/)  
