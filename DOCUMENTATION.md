@@ -133,7 +133,7 @@ class Donation {
 ### Endpoints
 #### Crear una nueva donación
 ```
-POST /donations
+POST /PROD/donations
 ```
 | Parámetro                | Tipo     | Descripción                                                                 | Ejemplo                                |
 |--------------------------|----------|-----------------------------------------------------------------------------|---------------------------------------:|
@@ -147,9 +147,9 @@ POST /donations
 | donation_location        | `Object` | Coordenadas de localización de la comida                                    | `{ lat: 51.523767, long: -0.1607444 }` |
 ---
 
-#### Obtener todas las donaciones de un mismo usuario
+#### Obtener todas las donaciones de un usuario
 ```
-GET /donations/{phone_number}
+GET /PROD/donations/{phone_number}
 ```
 | Parámetro | Tipo | Descripción |
 |-----------|------|-------------|
@@ -158,7 +158,7 @@ GET /donations/{phone_number}
 
 #### Obtener una donación de un usuario
 ```
-GET /donations/{phone_number}/{post_id}
+GET /PROD/donations/{phone_number}/{post_id}
 ```
 | Parámetro | Tipo | Descripción |
 |-----------|------|-------------|
@@ -167,7 +167,7 @@ GET /donations/{phone_number}/{post_id}
 
 #### Editar una donación
 ```
-PUT /donations/{phone_number}/{post_id}
+PUT /PROD/donations/{phone_number}/{post_id}
 ```
 | Parámetro                | Tipo     | Descripción                                                                 | Ejemplo                                |
 |--------------------------|----------|-----------------------------------------------------------------------------|---------------------------------------:|
