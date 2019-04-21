@@ -137,7 +137,9 @@ class Donation {
 ## 3.2 Documentación técnica
 ### Endpoints
 #### Crear una nueva donación
-`POST /donations`
+```
+POST /donations
+````
 | Parámetro                | Tipo     | Descripción                                                                 | Ejemplo                                |
 |--------------------------|----------|-----------------------------------------------------------------------------|---------------------------------------:|
 | phone_number             | `String` | Número de teléfono del donador                                              | `'+0123456789'`                        |
@@ -151,21 +153,27 @@ class Donation {
 ---
 
 #### Obtener todas las donaciones de un mismo usuario
-`GET /donations/{phone_number}`
+```
+GET /donations/{phone_number}
+```
 | Parámetro | Tipo | Descripción |
 |-----------|------|-------------|
 | N/A       |      |             |
 ---
 
 #### Obtener una donación de un usuario
-`GET /donations/{phone_number}/{post_id}`
+```
+GET /donations/{phone_number}/{post_id}
+```
 | Parámetro | Tipo | Descripción |
 |-----------|------|-------------|
 | N/A       |      |             |
 ---
 
 #### Editar una donación
-`PUT /donations/{phone_number}/{post_id}`
+```
+PUT /donations/{phone_number}/{post_id}
+```
 | Parámetro                | Tipo     | Descripción                                                                 | Ejemplo                                |
 |--------------------------|----------|-----------------------------------------------------------------------------|---------------------------------------:|
 | donation_content         | `String` | Contenido de la donación                                                    | `'Manzanas'`                           |
@@ -180,11 +188,11 @@ class Donation {
 ###### * Los parámetros se pasan como cuerpo de la solicitud de HTTP
 
 #### Enlaces externos:
-Documentación de Dialogflow  
-Documentación de Messenger  
-Documentación de Facebook  
-Documentación de AWS  
-Documentación de Javascript  
-Documentación de HTML  
+[Documentación de Dialogflow](https://dialogflow.com/docs)  
+[Documentación de Messenger](https://developers.facebook.com/docs/messenger-platform/)  
+[Documentación de Facebook](https://developers.facebook.com/docs/graph-api)  
+[Documentación de AWS](https://docs.aws.amazon.com/index.html)  
+[Documentación de Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[Documentación de HTML](https://www.w3schools.com/tags/)  
 
 # 4. Aspectos relevantes
