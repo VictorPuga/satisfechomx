@@ -1,5 +1,4 @@
 # Documentación: Satisfecho.mx
-
 1. [Definiciones y especificación de requerimientos](#1-Definiciones-y-especificación-de-requerimientos)  
 1.1 [Definición general](#11-Definición-general)  
 1.2 [Requerimientos del proyecto](#12-Requerimientos-del-proyecto)  
@@ -14,7 +13,6 @@
 
 ## 1. Definiciones y especificación de requerimientos  
 ### 1.1 Definición general
-
 Satisfecho.mx es una interfaz que, a través de un chatbot de Messenger, permite hacer donaciones de alimentos para asociaciones civiles, como el Banco de Alimentos de Chihuahua. 
 
 El objetivo de la aplicación es facilitar la donación de alimentos, para ayudar a las personas que no tienen los recursos para tener una buena alimentación
@@ -22,7 +20,6 @@ El objetivo de la aplicación es facilitar la donación de alimentos, para ayuda
 Los usuarios que utilizarán la aplicación serán gente que trabaje para un restaurante, mercado, o negocio similar, que sea el encargado de la merma de alimentos. A su vez, ellos notificarán a los voluntarios de las asociaciones civiles, quienes se encargarán de recoger el donativo.
 
 ### 1.2 Requerimientos del proyecto
-
 - Requisitos generales:  
     - Conocimiento de Javascript
     - Conocimiento de la integración con Facebook
@@ -44,14 +41,13 @@ Las limitaciones del proyecto son que por el momento solo cubre un área, la ciu
 
 ### 1.3 Especificaciones de procedimientos
 #### 1.3.1 Procedimientos de desarrollo
-
 Las herramientas que se utilizaron fueron [Dialogflow](https://dialogflow.com/) para el desarrollo del chatbot, [Amazon Web Services](https://aws.amazon.com/) para el diseño de la infraestructura en la nube, y la pataforma de [Messenger](https://developers.facebook.com/docs/messenger-platform/) para la distribución del bot.
 
-Primero se validó el diseño de la aplicación, para asegurarse de que sí se resuelva un problema del mundo real. Luego se planeó la arquitectura de los datos. Después, se desarrolló el bot y se realizaron pruebas. Se construyó una [landing page](https://www.satisfecho.mx/) para dar mayor información acerca del proyecto.  ~~**[... integración y recepción ...]**~~
+Primero se validó el diseño de la aplicación, para asegurarse de que sí se resuelva un problema del mundo real. Luego se planeó la arquitectura de los datos. Después, se desarrolló el bot y se realizaron pruebas. Se construyó una [landing page](https://www.satisfecho.mx/) para dar mayor información acerca del proyecto.
 
 #### 1.3.2 Procedimientos de instalación y prueba
-- Requerimientos no funcionales:  
-    - [...]
+<!-- - Requerimientos no funcionales:  
+    - [...] -->
 
 - Obtención e instalación:  
 Para utilizar la app, busca "Satisfecho.mx" en Messenger. Contesta las preguntas del bot, para llenar la información sobre el donativo. Esto notificará a los voluntarios, quienes podrán ver la información en la página de Facebook.
@@ -66,7 +62,6 @@ Para poder usar la app, es necesario tener una cuenta de Facebook, y la aplicaci
 ![Diagrama de módulos](https://github.com/VictorPuga/satisfechomx/blob/master/assets/diagram.png "Diagrama de módulos")
 
 ## Descripción individual
-
 ### Messenger
 Messenger es en donde el usuario interactúa con la app. Toda la interfaz está diseñada para ser un chat, lo que simplifica la interacción con los usuarios. La función de esta integración con Messenger es usar una plataforma ya establecida para la distribución de la aplicación. A su vez, los mensajes que recibe el chat son mandados a un chatbot desarrollado con Dialogflow, para procesar el texto y que la verdadera magia funcione. 
 
@@ -89,9 +84,9 @@ En la [página de Facebook](https://fb.com/Satisfechomx-289652755034519/) de Sat
 # 3. Diseño del modelo de datos
 La base de datos de DynamoDB ofrece un sistema NoSQL. Los datos se van guardando como se muestra en los siguientes diagramas:
 
-|Primary key| Sort key| Attributes|
-|---|---|---|
-|phone_number| |||
+| Primary key  | Sort key | Attributes   |   |   |   |   |   |   |   |
+|--------------|----------|--------------|---|---|---|---|---|---|---|
+| phone_number | post_id  | phone_number | donation_content | donation_quantity | donation_amount | donation_expiration_date | donation_pick_up_by_time | donation_photo | donation_location |
 
 ````dart
 class Donation {
@@ -217,3 +212,5 @@ El desarrollo de la plataforma de Satisfecho.mx ha resultado sumamente interesan
 A esto se suman los retos técnicos del proyecto como ser el primer proyecto en el que usamos tecnología de chatbot (Dialogflow), donde nuestro motor de procesamiento es un servicio de nube (AWS Lambda), y finalmente, que se conecta a una cuenta de desarrollo de Facebook. La naturaleza “multi-nube” del stack ha hecho su desarrollo mucho más complejo.   
 
 No obstante ha sido muy enriquecedor.
+
+Made with ❤️ by Phill 😉, Vic 🤓, and Sebas 😎.
