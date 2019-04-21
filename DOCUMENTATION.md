@@ -201,16 +201,18 @@ El proceso se puede dividir en tres componentes generales. El bot, la página, y
 
 El bot es, como se puede esperar, la tecnología de Dialogflow; los diferentes “intents”, sus respuestas programadas, los contextos y la manera en la que deriva los datos del texto.  
 
-La página se refiere al muro de Facebook hacia el cual se publican todas las donaciones de la plataforma y es el centro de gestión de inventario y uso de la aplicación. El pseudo-servidor es el pegamento que uno estos dos juntos; es servidor porque la lógica que contiene es central “always-on” y de middleware; es pseudo porque en realidad corre en infraestructura de “funciones de nube” que solo son invocadas on-demand y no están realmente en un servidor siempre encendido con cierto hardware de fondo.  
+La página se refiere al muro de Facebook hacia el cual se publican todas las donaciones de la plataforma y es el centro de gestión de inventario y uso de la aplicación. El pseudo-servidor es el pegamento que une a estos dos juntos; es servidor porque la lógica que contiene es central “always-on” y de middleware; es pseudo porque en realidad corre en infraestructura de “funciones de nube” que solo son invocadas on-demand y no están realmente en un servidor siempre encendido con cierto hardware de fondo.  
 
-Al comienzo del flujo de uso, los donadores intercedan con nuestro chatbot y le comunican todos los datos del “payload” de comida que desean donar. Este en turno usa esos datos para generar un post de facebook y lo publica en nuestra página. Una vez ahí, es visto por nuestros voluntarios y estos finalmente usan esa información para recoger y distribuir ese alimento. Finalmente, el receptor recibe ese alimento y se encarga de entregarlo a gente que lo necesita.  
+Al comienzo del flujo de uso, los donadores interactúan con nuestro chatbot y le comunican todos los datos del cargamentoxw de comida que desean donar. Este en turno usa esos datos para generar un post de Facebook y lo publica en nuestra página. Una vez ahí, es visto por nuestros voluntarios y estos finalmente usan esa información para recoger y distribuir ese alimento. Finalmente, el receptor recibe ese alimento y se encarga de entregarlo a gente que lo necesita.  
 
 
 # Conclusiones
-El desarrollo de la plataforma de Satisfecho.mx ha resultado sumamente interesante y a su vez bastante retador. El proyecto es de naturaleza multidisciplinario y precisa de muchos diferentes actores colaborando en sincronía, por lo tanto uno de los componentes más retadores ha sido el desarrollo de las conexiones pertinentes y necesarias para el seguimiento del proyecto. Estas son: nuestra relación con alsuper, llamar y conectarnos con banco de alimentos.  
+El desarrollo de la plataforma de Satisfecho.mx ha resultado sumamente interesante y a su vez bastante retador. El proyecto es de naturaleza multidisciplinaria y precisa de muchos diferentes actores colaborando en sincronía, por lo tanto uno de los componentes más retadores ha sido el desarrollo de las conexiones pertinentes y necesarias para el seguimiento del proyecto. Estas son: nuestra relación con Alsuper, llamar y conectarnos con el Banco de Alimentos.  
 
 A esto se suman los retos técnicos del proyecto como ser el primer proyecto en el que usamos tecnología de chatbot (Dialogflow), donde nuestro motor de procesamiento es un servicio de nube (AWS Lambda), y finalmente, que se conecta a una cuenta de desarrollo de Facebook. La naturaleza “multi-nube” del stack ha hecho su desarrollo mucho más complejo.   
 
 No obstante ha sido muy enriquecedor.
 
-Made with ❤️ by Phill 😉, Vic 🤓, and Sebas 😎.
+<p align="center">
+    <p>Made with ❤️ by Phill 😉, Vic 🤓, and Sebas 😎.</p>
+</p>
