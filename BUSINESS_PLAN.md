@@ -6,6 +6,7 @@
 
 ### Grupo 1  
 ### Integrantes 🤓 🤓 🤓
+
 ```javascript
 const members = [
     { name: 'Víctor Puga', id: 'A01568636' },
@@ -125,10 +126,10 @@ No hay un establecimiento físico por parte de nosotros como aplicación; sólo 
 No hay.
 
 ### Herramientas necesarias para elaborar el producto
-| Dispositivos electrónicos | Software        | Mobiliario |
-|---------------------------|-----------------|------------|
-| Laptop                    | Editor de texto |            |
-| Celular                   |                 |            |
+| Dispositivos electrónicos | Software        | Mobiliario          |
+|---------------------------|-----------------|---------------------|
+| Laptop                    | Editor de texto |                     |
+| Celular                   |                 |                     |
 
 ### Personas en el proceso productivo 
 | Puesto de trabajo            | No. |
