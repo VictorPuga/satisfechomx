@@ -126,7 +126,7 @@ class Donation {
 - Cuando se ha recabado toda la información, Dialogflow llama otra función, que recibe parámetros para cada dato, a través de API Gateway. 
 - La función crea una publicación de Facebook con toda la información recabada.
 - Una vez publicada, escribe los datos a DynamoDB.
-  - Si todo exitoso, regresa una respuesta a Messenger para concluir la conversación.
+  - Si todo es exitoso, regresa una respuesta a Messenger para concluir la conversación.
   - Si ocurrió algún error, regresa una respuesta para notificar el error e intentar de nuevo.
 
 ## 3.2 Documentación técnica
