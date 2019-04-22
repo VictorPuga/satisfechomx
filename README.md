@@ -12,3 +12,6 @@ Aquí se encuentra la documentación del proyecto, junto con el plan de negocios
   - [Chatbot](https://github.com/VictorPuga/satisfechomx/blob/master/src/chatbot/)
   - [Funciones](https://github.com/VictorPuga/satisfechomx/blob/master/src/functions/)
   - [Sitio web](https://github.com/VictorPuga/satisfechomx/blob/master/src/website/)
+
+## License
+See [LICENSE](https://github.com/VictorPuga/satisfechomx/blob/master/LICENSE)
